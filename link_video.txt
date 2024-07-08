@@ -1,0 +1,5 @@
+https://www.youtube.com/watch?v=TzvcPi3nsdw
+
+How to Structure a Data Science Project for Maintainability
+
+by Data Science Simplified
